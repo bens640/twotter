@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  giphy_link: 
+  tweet: MyString
+
+two:
+  giphy_link: 
+  tweet: MyString
